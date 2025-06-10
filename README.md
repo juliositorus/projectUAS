@@ -1,6 +1,6 @@
 # api-service-sederhana-php
 
-Project ini adalah REST API sederhana untuk data Users. Mendukung method:
+Project ini adalah SERVICE API sederhana untuk data Users. Mendukung method:
 - `GET /users`
 - `POST /users`
 - `PUT /users/:id`
@@ -20,7 +20,7 @@ Project ini adalah REST API sederhana untuk data Users. Mendukung method:
 ![Screenshot (963)](https://github.com/user-attachments/assets/84523afb-094f-4046-aa4c-e766bdd0dfd5)
 # HASIL METHOD DELETE
 ![Screenshot (964)](https://github.com/user-attachments/assets/11cada55-f3ee-498c-90ba-d1be79bcb7e4)
-# 
+
 
 
 
