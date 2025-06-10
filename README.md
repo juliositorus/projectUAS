@@ -5,11 +5,10 @@ Project ini adalah REST API sederhana untuk data Users. Mendukung method:
 - `POST /users`
 - `PUT /users/:id`
 - `DELETE /users/:id`
-- 
 # Cara Menjalankan
 # METHOD GET / Mendapatkan Semua Pengguna
 ![image](https://github.com/user-attachments/assets/48df4ed5-3710-4bf8-8976-eb8105886450)
-#METHOD POST /Membuat Pengguna Baru
+# METHOD POST /Membuat Pengguna Baru
 ![Screenshot (959)](https://github.com/user-attachments/assets/a6850502-8811-4ef4-b5bc-06eef0b710d2)
 # HASIL METHOD POST
 ![Screenshot (960)](https://github.com/user-attachments/assets/1ed00f02-c0db-4898-b51a-507a37d004d8)
