@@ -1,11 +1,11 @@
 # api-service-sederhana-php
 
 Project ini adalah REST API sederhana untuk data Users. Mendukung method:
--GET /users
--POST /users
--PUT /users/:id
--DELETE /users/:id
-
+- `GET /users`
+- `POST /users`
+- `PUT /users/:id`
+- `DELETE /users/:id`
+- 
 # Cara Menjalankan
 # METHOD GET / Mendapatkan Semua Pengguna
 ![image](https://github.com/user-attachments/assets/48df4ed5-3710-4bf8-8976-eb8105886450)
